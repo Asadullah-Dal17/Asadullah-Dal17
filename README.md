@@ -3,6 +3,7 @@ I'm Asadullah Dal, a 26-year old technical enthusiast who does Computer Vision, 
 ## 📫 How to reach me: 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/asadullah-dal-87906019b) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Asadullah-Dal17)  [![Facebook](http://i.imgur.com/fep1WsG.png) Facebook](https://www.facebook.com/AiPhile17)
+ [![Facebook](https://github.com/Asadullah-Dal17/Opencv_Youtube_Series/blob/master/Youtube2.png) Facebook](https://www.youtube.com/c/aiphile)
 <!--
 **AkhilGKrishnan/AkhilGKrishnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
