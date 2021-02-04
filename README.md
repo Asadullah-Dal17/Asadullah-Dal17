@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 ![Akhil's github stats](https://github-readme-stats.vercel.app/api?username=Asadullah-Dal17&show_icons=true&theme=dark)
 
-⭐️ From [AkhilGKrishnan](https://github.com/Asadullah-Dal17)
+⭐️ From [Asadullah](https://github.com/Asadullah-Dal17)
