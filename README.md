@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently working on Argument Reality **A:heart:R**
+- 🌱 I’m currently working on Augmented Reality **A:heart:R**
 - 😄 Pronouns: He/His/Him
 
 
