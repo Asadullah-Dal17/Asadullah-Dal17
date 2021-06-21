@@ -1,5 +1,6 @@
 ### Hi there I'm [Asadullah]👋
-I'm Asadullah Dal, a 26-year old technical enthusiast who does Computer Vision, Machine Learning /Deep Learing, raspberry pi and Arduino development. Passionate to contribute open-source projects and make cool products.<br>
+I'm Asadullah Dal, a 26-year old technical enthusiast who does Computer Vision, Machine Learning /Deep Learing, raspberry pi and Arduino development. Passionate to contribute open-source projects and make cool products.
+I also have youtube channel where I share my Knowledge, about computer vision, and AI<br>
 ## 📫 How to reach me: 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/asadullah-dal-87906019b) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Asadullah-Dal17)  [![Facebook](http://i.imgur.com/fep1WsG.png) Facebook](https://www.facebook.com/AiPhile17)
