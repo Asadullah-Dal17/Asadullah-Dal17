@@ -1,5 +1,12 @@
-### Hi there I'm [Asadullah]👋
-I'm Asadullah Dal, a 26-year old technical enthusiast who does Computer Vision, Machine Learning /Deep Learing, raspberry pi and Arduino development. Passionate to contribute open-source projects and make cool products.
+## I'm a Developer, and Teacher!!
+
+- 🔭 I am working on my first course!
+- 🌱 I’m currently working on Augmented Reality **A:heart:R**
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2021 Goals: To create more content on, and available it for free .
+- ⚡ Fun fact: I love to working 3D design, working on that, and Video Editing.
+- 😄 Pronouns: He/His/Him
+
 I also have youtube channel where I share my Knowledge, about computer vision, and AI<br>
 ## 📫 How to reach me: 
 
@@ -8,21 +15,6 @@ I also have youtube channel where I share my Knowledge, about computer vision, a
  <a href="https://github.com/Asadullah-Dal17"> GitHub <img alt="GitHub" src="https://user-images.githubusercontent.com/66181793/131223930-9fd2bfc7-9c43-465d-a057-55f3292f3b2b.png"  width="20">
   <a href="https://www.instagram.com/aiphile17/"> Instagram <img alt="Instagram" src="https://user-images.githubusercontent.com/66181793/131223931-32d84c10-88b4-4cd6-8eb8-89f06c3b5b51.png"  width="20">
  <br> </br>
-<!--
-**AkhilGKrishnan/AkhilGKrishnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-- 🌱 I’m currently working on Augmented Reality **A:heart:R**
-- 😄 Pronouns: He/His/Him
-
 
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
