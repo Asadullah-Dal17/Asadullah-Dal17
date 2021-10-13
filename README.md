@@ -6,7 +6,7 @@
 - 🥅 2021 Goals: To create more content on, and available it for free .
 - ⚡ Fun fact: I love to working 3D design, and Video Editing.
 - 😄 Pronouns: He/His/Him 👨
-I also have youtube channel where I share my Knowledge, about computer vision, and AI<br>
+
 ## 📫 How to reach me :call_me_hand:
 
 
