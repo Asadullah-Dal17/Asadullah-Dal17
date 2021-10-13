@@ -6,6 +6,7 @@
 - 🥅 2021 Goals: To create more content on, and available it for free .
 - ⚡ Fun fact: I love to working 3D design, and Video Editing.
 - 😄 Pronouns: He/His/Him 👨
+- Being Sindhi, I would apperciate, one would talke to me in Sindhi. "Maherbani Thin-dee 💚"
 
 I also have youtube channel where I share my Knowledge, about computer vision, and AI<br>
 ## 📫 How to reach me :call_me_hand:
