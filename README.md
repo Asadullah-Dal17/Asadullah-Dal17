@@ -1,4 +1,4 @@
-## I'm a Developer :man_technologist:, and Teacher!!👨‍🏫
+## I'm a Developer :man_technologist:, <a href="https://www.youtube.com/c/aiphile">YouTuber <img alt="AiPhile Youtube" src="https://user-images.githubusercontent.com/66181793/131223988-882d53a0-4882-468f-9bd7-46b46466baae.png"  width="25"></a> and Teacher!!👨‍🏫
 - 🔭 I am working my first few courses!
 - ⌨️ working on Typeing speed, currently averaging about 43-45wpm, goal 🥅 is to reach at least 100wpm 🚤
 - 🌱 I’m currently working on Augmented Reality **A:heart:R**
@@ -6,8 +6,6 @@
 - 🥅 2021 Goals: To create more content on, and available it for free .
 - ⚡ Fun fact: I love to working 3D design, and Video Editing.
 - 😄 Pronouns: He/His/Him 👨
-- Being Sindhi, I would apperciate, one would talke to me in Sindhi. "Maherbani Thin-dee 💚"
-
 I also have youtube channel where I share my Knowledge, about computer vision, and AI<br>
 ## 📫 How to reach me :call_me_hand:
 
