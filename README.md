@@ -20,7 +20,7 @@
 
 ### 📺 Latest YouTube Videos
 
-<!-- YOUTUBE:START --> 
+<!-- YOUTUBE:START -->
 - [DeepFake | Face Swapping with SimSwap | AI](https://www.youtube.com/watch?v=saLcSaejgDM)
 - [face swapping, with colab demo](https://www.youtube.com/watch?v=hC0Wx8Ssfw4)
 - [Improve detection with Optical flow QR code | opencv | pyzbar](https://www.youtube.com/watch?v=Fc4mN1zXK3A)
