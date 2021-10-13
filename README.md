@@ -20,7 +20,7 @@
 
 ### 📺 Latest YouTube Videos
 
-<!-- YOUTUBE:START -->
+<!-- YOUTUBE:START --> 
 - [DeepFake | Face Swapping with SimSwap | AI](https://www.youtube.com/watch?v=saLcSaejgDM)
 - [face swapping, with colab demo](https://www.youtube.com/watch?v=hC0Wx8Ssfw4)
 - [Improve detection with Optical flow QR code | opencv | pyzbar](https://www.youtube.com/watch?v=Fc4mN1zXK3A)
@@ -35,20 +35,14 @@
 <!-- Working Tools    -->
 
 <a href="https://code.visualstudio.com/"> <img alt="Vs Code"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"     width="35">
-<a  href="" ><img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"  width="35">
-<a href="">   <img alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"  width="35">
-<a href="">   <img alt="Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"  width="35">
-<a href="">  <img alt="Arduino" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"  width="35">
-<a href="">   <img alt="jupyter notebook" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"  width="35">
-<a href="" >   <img alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg"  width="35">
-<a href="" >   <img alt="Canva" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"  width="35">
-<a href="" >   <img alt="Canva" src="https://img.icons8.com/fluency/48/000000/hitfilm-express.png"  width="35">
- 
- 
- 
- 
- 
- 
+<a  href="https://www.python.org/" ><img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"  width="35">
+<a href="https://git-scm.com/">   <img alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"  width="35">
+<a href="https://github.com/">   <img alt="Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"  width="35">
+<a href="https://www.arduino.cc/">  <img alt="Arduino" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"  width="35">
+<a href="https://jupyter.org/">   <img alt="jupyter notebook" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"  width="35">
+<a href="https://en.wikipedia.org/wiki/C%2B%2B" >   <img alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg"  width="35">
+<a href="http://canva.com/" >   <img alt="Canva" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"  width="35">
+<a href="https://fxhome.com/product/hitfilm-express" >   <img alt="Canva" src="https://img.icons8.com/fluency/48/000000/hitfilm-express.png"  width="35">
  
 
   <p align="center">
