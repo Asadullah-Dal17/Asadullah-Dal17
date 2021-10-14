@@ -28,7 +28,8 @@
 
 ➡️ [more videos...](https://www.youtube.com/c/aiphile)
 
-
+---
+   
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 <!-- Working Tools    -->
 
@@ -42,7 +43,7 @@
 <a href="http://canva.com/" >   <img alt="Canva" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"  width="35">
 <a href="https://fxhome.com/product/hitfilm-express" >   <img alt="Canva" src="https://img.icons8.com/fluency/48/000000/hitfilm-express.png"  width="35">
  
-
+---
   <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
