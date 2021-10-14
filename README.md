@@ -14,11 +14,9 @@
  <a href="https://github.com/Asadullah-Dal17"> GitHub <img alt="GitHub" src="https://user-images.githubusercontent.com/66181793/131223930-9fd2bfc7-9c43-465d-a057-55f3292f3b2b.png"  width="20">
   <a href="https://www.instagram.com/aiphile17/"> Instagram <img alt="Instagram" src="https://user-images.githubusercontent.com/66181793/131223931-32d84c10-88b4-4cd6-8eb8-89f06c3b5b51.png"  width="20">
  
- <br/>
-
 ---
 
-### 📺 Latest YouTube Videos
+   ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
 - [DeepFake | Face Swapping with SimSwap | AI](https://www.youtube.com/watch?v=saLcSaejgDM)
