@@ -19,11 +19,11 @@
    ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Improve Detection, with Optical Flow Opencv | QR code |Opencv](https://www.youtube.com/watch?v=VUTJeDl-ar8)
 - [DeepFake | Face Swapping with SimSwap | AI](https://www.youtube.com/watch?v=saLcSaejgDM)
 - [face swapping, with colab demo](https://www.youtube.com/watch?v=hC0Wx8Ssfw4)
 - [Improve detection with Optical flow QR code | opencv | pyzbar](https://www.youtube.com/watch?v=Fc4mN1zXK3A)
 - [Eyes Tracking Mediapipe | Voice Position Indicator | Opencv python, Pygame](https://www.youtube.com/watch?v=oAgu20kuRQw)
-- [Eyes Tracking with Mediapipe | opencv tutorial | python](https://www.youtube.com/watch?v=Y-mCtkv41rk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/c/aiphile)
