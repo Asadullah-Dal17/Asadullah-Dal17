@@ -33,15 +33,15 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 <!-- Working Tools    -->
 
-<a href="https://code.visualstudio.com/"> <img alt="Vs Code"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"     width="35">
-<a  href="https://www.python.org/" ><img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"  width="35">
-<a href="https://git-scm.com/">   <img alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"  width="35">
-<a href="https://github.com/">   <img alt="Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"  width="35">
-<a href="https://www.arduino.cc/">  <img alt="Arduino" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"  width="35">
-<a href="https://jupyter.org/">   <img alt="jupyter notebook" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"  width="35">
-<a href="https://en.wikipedia.org/wiki/C%2B%2B" >   <img alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg"  width="35">
-<a href="http://canva.com/" >   <img alt="Canva" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"  width="35">
-<a href="https://fxhome.com/product/hitfilm-express" >   <img alt="Canva" src="https://img.icons8.com/fluency/48/000000/hitfilm-express.png"  width="35">
+<a href="https://code.visualstudio.com/"> <img alt="Vs Code"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"     width="45">
+<a  href="https://www.python.org/" ><img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"  width="45">
+<a href="https://git-scm.com/">   <img alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"  width="45">
+<a href="https://github.com/">   <img alt="Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"  width="45">
+<a href="https://www.arduino.cc/">  <img alt="Arduino" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"  width="45">
+<a href="https://jupyter.org/">   <img alt="jupyter notebook" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"  width="45">
+<a href="https://en.wikipedia.org/wiki/C%2B%2B" >   <img alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg"  width="45">
+<a href="http://canva.com/" >   <img alt="Canva" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"  width="45">
+<a href="https://fxhome.com/product/hitfilm-express" >   <img alt="Canva" src="https://img.icons8.com/fluency/48/000000/hitfilm-express.png"  width="45">
  
 ---
   <p align="center">
