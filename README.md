@@ -1,5 +1,6 @@
 ## I'm a Developer :man_technologist:, <a href="https://www.youtube.com/c/aiphile">YouTuber <img alt="AiPhile Youtube" src="https://user-images.githubusercontent.com/66181793/131223988-882d53a0-4882-468f-9bd7-46b46466baae.png"  width="25"></a> and Teacher!!👨‍🏫
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Asadullah-Dal17&label=Profile%20views&color=0e75b6&style=flat" alt="Asadullah" /> </p>
+
 - 🔭 I am working my first few courses!
 - ⌨️ working on Typeing speed, currently averaging about 43-45wpm, goal 🥅 is to reach at least 100wpm 🚤
 - 🌱 I’m currently working on Augmented Reality **A:heart:R**
