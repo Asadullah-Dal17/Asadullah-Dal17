@@ -39,7 +39,7 @@
 <a  href="https://www.python.org/" ><img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"  width="80">
 <a href="https://git-scm.com/">   <img alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"  width="80">
 <a href="https://github.com/">   <img alt="Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"  width="80">
-<a href="https://www.arduino.cc/">  <img alt="Arduino" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original-wordmark.svg"  width="80">
+<a href="https://www.arduino.cc/">  <img alt="Arduino" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"  width="80">
 <a href="https://www.raspberrypi.org">  <img alt="Raspberry Pi" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg"  width="80">
 <a href="https://jupyter.org/">   <img alt="jupyter notebook" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"  width="80">
 <a href="https://en.wikipedia.org/wiki/C%2B%2B" >   <img alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg"  width="80">
