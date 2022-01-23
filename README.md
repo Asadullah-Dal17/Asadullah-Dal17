@@ -24,11 +24,11 @@
    ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Iris Tracking Mediapipe, Python Tutorial |2022](https://www.youtube.com/watch?v=DNKAvDeqH_Y)
 - [Floating Image Viewer AR with Opencv Python only](https://www.youtube.com/watch?v=f1-qew6S3yc)
 - [Face Detection  and Distance Estimation on Raspberry PI | Opencv Python](https://www.youtube.com/watch?v=h4krAfR0Y-g)
 - [Improve Detection, with Optical Flow Opencv | QR code |Opencv](https://www.youtube.com/watch?v=VUTJeDl-ar8)
 - [DeepFake | Face Swapping with SimSwap | AI](https://www.youtube.com/watch?v=saLcSaejgDM)
-- [face swapping, with colab demo](https://www.youtube.com/watch?v=hC0Wx8Ssfw4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/c/aiphile)
