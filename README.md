@@ -3,7 +3,7 @@
 
 - 🔭 I am working on my first few courses! for Youtube channel.
 - ⌨️ working on Typeing speed, currently averaging about 50-55wpm, goal 🥅 is to reach at least 100wpm 🚤
-- 🌱 I’m currently working on Augmented Reality **A:heart:R**
+- 🌱 I’m currently working on Augmented Reality
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: To create more content on, and available it for free .
 - ⚡ Fun fact: I love to work 3D design, and Video Editing.
