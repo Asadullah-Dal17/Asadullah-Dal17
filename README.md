@@ -24,7 +24,7 @@
    ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Iris Tracking Mediapipe 30FPS, Python Tutorial |2022](https://www.youtube.com/watch?v=DNKAvDeqH_Y)
+- [Iris Tracking Mediapipe and OpenCV Python &lpar;30 FPS&rpar;Tutorial | 2022](https://www.youtube.com/watch?v=DNKAvDeqH_Y)
 - [Floating Image Viewer AR with Opencv Python only](https://www.youtube.com/watch?v=f1-qew6S3yc)
 - [Face Detection  and Distance Estimation on Raspberry PI | Opencv Python](https://www.youtube.com/watch?v=h4krAfR0Y-g)
 - [Improve Detection, with Optical Flow Opencv | QR code |Opencv](https://www.youtube.com/watch?v=VUTJeDl-ar8)
