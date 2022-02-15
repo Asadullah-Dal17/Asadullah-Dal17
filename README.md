@@ -5,7 +5,7 @@
 - 🌱 I’m currently working on [Augmented Reality course](https://youtube.com/playlist?list=PLJ958Ls6nowUnzTXcdBBmO96NG5AWTq_N)
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: To create more content on, and available it for free .
-- ⚡ Fun fact: I love to work 3D design, and Video Editing.
+- ⚡ Fun fact: I love to work on 3D design, and Video Editing.
 - ⛑️ If you need Help in computer vision stuff feel free to DM me  <a href="https://www.instagram.com/aiphile17/"> Instagram <img alt="Instagram" src="https://user-images.githubusercontent.com/66181793/131223931-32d84c10-88b4-4cd6-8eb8-89f06c3b5b51.png"  width="20"> </a>
 - 😄 Pronouns: He/His/Him 👨
 
