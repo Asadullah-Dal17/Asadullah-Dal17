@@ -2,8 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Asadullah-Dal17&label=Profile%20views&color=0e75b6&style=flat" alt="Asadullah" /> </p>
 
 - 🔭 I am working on my first few courses! for Youtube channel.
-- ⌨️ working on Typeing speed, currently averaging about 50-55wpm, goal 🥅 is to reach at least 100wpm 🚤
-- 🌱 I’m currently working on Augmented Reality
+- 🌱 I’m currently working on [Augmented Reality course](https://youtube.com/playlist?list=PLJ958Ls6nowUnzTXcdBBmO96NG5AWTq_N)
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: To create more content on, and available it for free .
 - ⚡ Fun fact: I love to work 3D design, and Video Editing.
