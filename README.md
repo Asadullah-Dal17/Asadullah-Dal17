@@ -23,11 +23,11 @@
    ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Image Augmentation Project 1 &lpar;Basic AR Course&rpar; Part 3](https://www.youtube.com/watch?v=wB4BRWNuJM4)
 - [ArUco marker Detection | Basic AR course part2](https://www.youtube.com/watch?v=P9QZhcteRlU)
 - [Basic Augmented Reality with OpenCV python Part 1](https://www.youtube.com/watch?v=_6x7pDOJkEk)
 - [OpenCV Python Development in Visual Studio Code | My Setup](https://www.youtube.com/watch?v=5OgY6oCZM_E)
 - [Iris Tracking Mediapipe and OpenCV Python &lpar;30 FPS&rpar;Tutorial | 2022](https://www.youtube.com/watch?v=DNKAvDeqH_Y)
-- [Floating Image Viewer AR with Opencv Python only](https://www.youtube.com/watch?v=f1-qew6S3yc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/c/aiphile)
