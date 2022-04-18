@@ -15,7 +15,7 @@
 <a href="https://www.youtube.com/c/aiphile"> Youtube <img alt="AiPhile Youtube" src="https://user-images.githubusercontent.com/66181793/131223988-882d53a0-4882-468f-9bd7-46b46466baae.png"  width="20">
  <a href="https://github.com/Asadullah-Dal17"> GitHub <img alt="GitHub" src="https://user-images.githubusercontent.com/66181793/131223930-9fd2bfc7-9c43-465d-a057-55f3292f3b2b.png"  width="20">
   <a href="https://www.instagram.com/aiphile17/"> Instagram <img alt="Instagram" src="https://user-images.githubusercontent.com/66181793/131223931-32d84c10-88b4-4cd6-8eb8-89f06c3b5b51.png"  width="20"> 
- <a href="https://medium.com/@asadullah92c"> Medium <img alt="Medium" src="https://user-images.githubusercontent.com/66181793/147751274-978466e3-c909-4402-8d22-4a5232910946.png"  width="30"> <a href="https://twitter.com/ai_phile"> Twitter <img alt="Twitter" src="https://user-images.githubusercontent.com/66181793/147751395-e78483e1-77b1-4a4b-87fd-580f7031bc8f.png"  width="35">  <a href="https://www.fiverr.com/aiphile"> Twitter <img alt="fiverr" src="https://user-images.githubusercontent.com/66181793/163767548-9a68e1c1-341a-4b07-9e35-042c35694c08.png"  width="35">  
+ <a href="https://medium.com/@asadullah92c"> Medium <img alt="Medium" src="https://user-images.githubusercontent.com/66181793/147751274-978466e3-c909-4402-8d22-4a5232910946.png"  width="30"> <a href="https://twitter.com/ai_phile"> Twitter <img alt="Twitter" src="https://user-images.githubusercontent.com/66181793/147751395-e78483e1-77b1-4a4b-87fd-580f7031bc8f.png"  width="35">  <a href="https://www.fiverr.com/aiphile"> Fiverr <img alt="fiverr" src="https://user-images.githubusercontent.com/66181793/163767548-9a68e1c1-341a-4b07-9e35-042c35694c08.png"  width="25">  
   
  
   
