@@ -26,7 +26,7 @@
    ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Turn VS Code into Python IDE, Like | PyCharm 2022](https://www.youtube.com/watch?v=e8E_ykgYD-o)
+- [Turn VS Code into Python IDE, Like || PyCharm 2022](https://www.youtube.com/watch?v=e8E_ykgYD-o)
 - [facial landmarks detection](https://www.youtube.com/watch?v=g9OFW6yJsc4)
 - [Iris Position Estimation Python part 2| MediaPipe | Opencv 2022](https://www.youtube.com/watch?v=8CIxfcbGU3s)
 - [Image Augmentation Project 1 &lpar;Basic AR Course&rpar; Part 3](https://www.youtube.com/watch?v=wB4BRWNuJM4)
