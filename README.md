@@ -26,7 +26,7 @@
    ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [How to Set Up Python in Visual Studio Code 2022 || Turn VS code into Python IDE](https://www.youtube.com/watch?v=e8E_ykgYD-o)
+- [Turn VS Code Into Python IDE 2022 || Top Extension Python Extension for VS code.](https://www.youtube.com/watch?v=e8E_ykgYD-o)
 - [facial landmarks detection](https://www.youtube.com/watch?v=g9OFW6yJsc4)
 - [Iris Position Estimation Python part 2| MediaPipe | Opencv 2022](https://www.youtube.com/watch?v=8CIxfcbGU3s)
 - [Image Augmentation Project 1 &lpar;Basic AR Course&rpar; Part 3](https://www.youtube.com/watch?v=wB4BRWNuJM4)
