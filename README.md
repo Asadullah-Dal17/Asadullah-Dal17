@@ -96,7 +96,10 @@
 <br><br><br><br><br>
 
 <hr>
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AsadUllah-Dal17&theme=dark&background=000000)](https://git.io/streak-stats)
 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asadullah-Dal17&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
 <img src="https://github-profile-trophy.vercel.app/?username=Asadullah-Dal17&theme=juicyfresh&no-bg=true" />
