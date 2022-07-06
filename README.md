@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Asadullah-Dal17&label=Profile%20views&color=0e75b6&style=flat" alt="Asadullah" /> </p>
 
 - 🔭 I am working on my first few courses! for Youtube channel.
-- 🌱 I’m currently working on [Augmented Reality course](https://youtube.com/playlist?list=PLJ958Ls6nowUnzTXcdBBmO96NG5AWTq_N)
+- 🌱 I’m currently working on as freelancer <a href="https://www.fiverr.com/aiphile/"><img alt="Instagram" src="https://img.shields.io/badge/Fiverr-fiverr?style=for-the-badge&logo=Fiverr&logoColor=black"  width="75"> </a>
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: To create more content on, and available it for free .
 - ⚡ Fun fact: I love to work on 3D design, and Video Editing.
