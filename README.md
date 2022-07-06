@@ -88,19 +88,21 @@
  
  
 ---
+  
+ <div id="stats">
   <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Asadullah-Dal17&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Asadullah-Dal17&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
-
-<hr>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Asadullah-Dal17&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" />
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AsadUllah-Dal17&theme=dark&background=000000)](https://git.io/streak-stats)
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asadullah-Dal17&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+</p>
+</div>
+ 
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AsadUllah-Dal17&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asadullah-Dal17&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  </p>
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
 <img src="https://github-profile-trophy.vercel.app/?username=Asadullah-Dal17&theme=juicyfresh&no-bg=true" />
 
