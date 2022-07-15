@@ -61,11 +61,11 @@
    ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Turn VS Code Into Python IDE 2022 || Top Extension Python Extension for VS code.](https://www.youtube.com/watch?v=e8E_ykgYD-o)
 - [facial landmarks detection](https://www.youtube.com/watch?v=g9OFW6yJsc4)
 - [Iris Position Estimation Python part 2| MediaPipe | Opencv 2022](https://www.youtube.com/watch?v=8CIxfcbGU3s)
 - [Image Augmentation Project 1 &lpar;Basic AR Course&rpar; Part 3](https://www.youtube.com/watch?v=wB4BRWNuJM4)
 - [ArUco marker Detection | Basic AR course part2](https://www.youtube.com/watch?v=P9QZhcteRlU)
+- [Basic Augmented Reality with OpenCV python Part 1](https://www.youtube.com/watch?v=_6x7pDOJkEk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/c/aiphile)
