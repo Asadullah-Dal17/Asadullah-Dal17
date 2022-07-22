@@ -58,8 +58,8 @@
   
 ---
 
-   ### 📺 Latest YouTube Videos
-
+   ### 📺 Latest YouTube Videos   <a href="https://www.youtube.com/c/aiphile"> <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" height=35 alt="Youtube Badge"/> </a>
+ 
 <!-- YOUTUBE:START -->
 - [facial landmarks detection](https://www.youtube.com/watch?v=g9OFW6yJsc4)
 - [Iris Position Estimation Python part 2| MediaPipe | Opencv 2022](https://www.youtube.com/watch?v=8CIxfcbGU3s)
