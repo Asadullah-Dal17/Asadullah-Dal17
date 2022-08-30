@@ -61,7 +61,7 @@
    ### 📺 Latest YouTube Videos   <a href="https://www.youtube.com/c/aiphile"> <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" height=35 alt="Youtube Badge"/> </a>
  
 <!-- YOUTUBE:START -->
-- [Pose and Distance Estimation with ArUco MDarkers | OpenCV Python](https://www.youtube.com/watch?v=mn-M6Qzx6SE)
+- [3D Pose and Distance Estimation with ArUco MDarkers | OpenCV Python](https://www.youtube.com/watch?v=mn-M6Qzx6SE)
 - [Camera Calibration with OpenCV Python: Part 5 | Basic AR Course](https://www.youtube.com/watch?v=JHeNger8B2E)
 - [ArUco Marker Distance Estimation](https://www.youtube.com/watch?v=gBxm-WscmgU)
 - [facial landmarks detection](https://www.youtube.com/watch?v=g9OFW6yJsc4)
