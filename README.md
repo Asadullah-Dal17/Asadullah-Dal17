@@ -61,11 +61,11 @@
    ### 📺 Latest YouTube Videos   <a href="https://www.youtube.com/c/aiphile"> <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" height=35 alt="Youtube Badge"/> </a>
  
 <!-- YOUTUBE:START -->
-- [3D Pose and Distance Estimation with ArUco MDarkers | OpenCV Python](https://www.youtube.com/watch?v=mn-M6Qzx6SE)
+- [IRIS segmentation Mediapipe python](https://www.youtube.com/watch?v=Or0ybLa3dtM)
+- [Aruco-marker distance estimation and 3D Pose Tutorial| AR Course Part 6 || OpenCV Python](https://www.youtube.com/watch?v=mn-M6Qzx6SE)
 - [Camera Calibration with OpenCV Python: Part 5 | Basic AR Course](https://www.youtube.com/watch?v=JHeNger8B2E)
 - [ArUco Marker Distance Estimation](https://www.youtube.com/watch?v=gBxm-WscmgU)
 - [facial landmarks detection](https://www.youtube.com/watch?v=g9OFW6yJsc4)
-- [Iris Position Estimation Python part 2| MediaPipe | Opencv 2022](https://www.youtube.com/watch?v=8CIxfcbGU3s)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/c/aiphile)
