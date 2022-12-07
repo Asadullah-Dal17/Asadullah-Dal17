@@ -1,7 +1,7 @@
 ## I'm a Husband :couple:,  Developer :man_technologist:, <a href="https://www.youtube.com/c/aiphile">YouTuber <img alt="AiPhile Youtube" src="https://user-images.githubusercontent.com/66181793/131223988-882d53a0-4882-468f-9bd7-46b46466baae.png"  width="25"></a> and Teacher!!👨‍🏫
 
 <!-- ## *Today (17-November) is my Nakkah(Getting married), Al-Humdulillah ♥* -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Asadullah-Dal17&label=Profile%20views&color=0e75b6&style=flat" alt="Asadullah" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Asadullah-Dal17&label=Profile%20views&color=0e75b6&style=flat" alt="Asadullah" /> <strong style="background-color:green;"> Updated: October 19th, 2021 </strong></p>
 
 - 🔭 I am working on my first few courses! for Youtube channel.
 - 🌱 I’m currently working as freelancer <a href="https://www.fiverr.com/aiphile/"><img alt="Instagram" src="https://img.shields.io/badge/Fiverr-fiverr?style=for-the-badge&logo=Fiverr&logoColor=black"  width="75"> </a>
