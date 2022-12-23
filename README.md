@@ -7,7 +7,7 @@
 - 🔭 I am working on my first few courses! for Youtube channel.
 - 🌱 I’m currently working as freelancer <a href="https://www.fiverr.com/aiphile/"><img alt="Instagram" src="https://img.shields.io/badge/Fiverr-fiverr?style=for-the-badge&logo=Fiverr&logoColor=black"  width="75"> </a>
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: To create more content on, and available it for free .
+- 🥅 2023 Goals: To create more courses on YouTube.
 - ⚡ Fun fact: I love to work on 3D design, and Video Editing.
 - ⛑️ If you need Help in computer vision stuff feel free to DM me  <a href="https://www.instagram.com/aiphile17/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=Instagram&logoColor=white"  width="85"> </a>
 - 😄 Pronouns: He/His/Him 👨
