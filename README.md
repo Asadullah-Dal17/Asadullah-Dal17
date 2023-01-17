@@ -72,6 +72,8 @@
 ➡️ [more videos...](https://www.youtube.com/c/aiphile)
 
 ---
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Asadullah-Dal17&theme=dark&background=000000)](https://git.io/streak-stats)
+---
    
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" >&nbsp;***My working tools...***
 <!-- Working Tools    -->
