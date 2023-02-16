@@ -63,7 +63,7 @@
  
 <!-- YOUTUBE:START -->
 - [IRIS segmentation Mediapipe python](https://www.youtube.com/watch?v=Or0ybLa3dtM)
-- [Aruco-marker distance estimation and 3D Pose Tutorial| AR Course Part 6 || OpenCV Python](https://www.youtube.com/watch?v=mn-M6Qzx6SE)
+- [Unveiling the Secrets of Accurate Distance Estimation &amp; 3D Pose with Aruco-Markers  AR Course Part 6](https://www.youtube.com/watch?v=mn-M6Qzx6SE)
 - [Camera Calibration with OpenCV Python: Part 5 | Basic AR Course](https://www.youtube.com/watch?v=JHeNger8B2E)
 - [ArUco Marker Distance Estimation](https://www.youtube.com/watch?v=gBxm-WscmgU)
 - [facial landmarks detection](https://www.youtube.com/watch?v=g9OFW6yJsc4)
