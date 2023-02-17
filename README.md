@@ -4,6 +4,7 @@
 <!-- ## *Today (17-November) is my Nakkah(Getting married), Al-Humdulillah ♥* -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Asadullah-Dal17&label=Profile%20views&color=0e75b6&style=flat" alt="Asadullah" /> <strong> since October 19th, 2021 </strong></p>
 
+
 - 🔭 I am working on my first few courses! for Youtube channel.
 - 🌱 I’m currently working as freelancer <a href="https://www.fiverr.com/aiphile/"><img alt="Instagram" src="https://img.shields.io/badge/Fiverr-fiverr?style=for-the-badge&logo=Fiverr&logoColor=black"  width="75"> </a>
 - 🥅 2023 Goals: To create more courses on YouTube.
@@ -75,8 +76,14 @@
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Asadullah-Dal17&theme=dark&background=000000)](https://git.io/streak-stats)
 ---
    
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asadullah-Dal17&show_icons=true&theme=transparent)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asadullah-Dal17&layout=compact&theme=buefy&title_color=000)](https://github.com/anuraghazra/github-readme-stats)
+
+  
+  
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" >&nbsp;***My working tools...***
 <!-- Working Tools    -->
+  
 
 <a href="https://code.visualstudio.com/"> <img alt="Vs Code"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"     width="80">
 <a  href="https://www.python.org/" ><img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"  width="80">
