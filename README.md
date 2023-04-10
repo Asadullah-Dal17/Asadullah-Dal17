@@ -63,7 +63,7 @@
    ### 📺 Latest YouTube Videos   <a href="https://www.youtube.com/c/aiphile"> <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" height=35 alt="Youtube Badge"/> </a>
  
 <!-- YOUTUBE:START -->
-- [Face Blurring Project 01 | Mediapipe Course  | Face Detection Mediapipe](https://www.youtube.com/watch?v=E91EjA4nkKg)
+- [Face Blurring | Mediapipe Course part-2 | Project 01](https://www.youtube.com/watch?v=E91EjA4nkKg)
 - [Face Detection | Mediapipe Complete Course Part-1](https://www.youtube.com/watch?v=FsVAvgR9ifY)
 - [IRIS segmentation Mediapipe python](https://www.youtube.com/watch?v=Or0ybLa3dtM)
 - [Unveiling the Secrets of Accurate Distance Estimation &amp; 3D Pose with Aruco-Markers  AR Course Part 6](https://www.youtube.com/watch?v=mn-M6Qzx6SE)
