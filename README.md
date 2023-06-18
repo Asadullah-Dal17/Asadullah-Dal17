@@ -1,14 +1,20 @@
 # اسدالله دل
 ## I'm a Husband :couple:,  Developer :man_technologist:, <a href="https://www.youtube.com/c/aiphile">YouTuber <img alt="AiPhile Youtube" src="https://user-images.githubusercontent.com/66181793/131223988-882d53a0-4882-468f-9bd7-46b46466baae.png"  width="25"></a> and Teacher!!👨‍🏫
 
+I'm a computer vision developer with a passion for teaching and sharing my knowledge. I create YouTube videos and blog posts to help others learn about computer vision  <a href="https://www.youtube.com/c/aiphile">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" width=75 alt="Youtube Badge"/>
+  </a> , and I also offer freelance services to help businesses build and deploy computer vision applications.<a href="https://www.fiverr.com/aiphile/"><img alt="Instagram" src="https://img.shields.io/badge/Fiverr-fiverr?style=for-the-badge&logo=Fiverr&logoColor=black"  width="75"> </a>  I'm always looking for new ways to learn and grow, and I'm excited to share my journey with you.
+
 <!-- ## *Today (17-November) is my Nakkah(Getting married), Al-Humdulillah ♥* -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Asadullah-Dal17&label=Profile%20views&color=0e75b6&style=flat" alt="Asadullah" /> <strong> since October 19th, 2021 </strong></p>
 
 
-- 🔭 I am working on my first few courses! for Youtube channel.
+
+
+- 🔭 I am working on my first few courses! for the Youtube channel.
 - 🌱 I’m currently working as freelancer <a href="https://www.fiverr.com/aiphile/"><img alt="Instagram" src="https://img.shields.io/badge/Fiverr-fiverr?style=for-the-badge&logo=Fiverr&logoColor=black"  width="75"> </a>
 - 🥅 2023 Goals: To create more courses on YouTube [Mediapipe Course](https://github.com/Asadullah-Dal17/AiPhile-Mediapipe-Course-2023).
-- ⛑️ If you need Help in computer vision stuff feel free to DM me  <a href="https://www.instagram.com/aiphile17/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=Instagram&logoColor=white"  width="85"> </a>
+- ⛑️ If you need help in computer vision stuff feel free to DM me  <a href="https://www.instagram.com/aiphile17/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=Instagram&logoColor=white"  width="85"> </a>
 - 😄 Pronouns: He/His/Him 👨
 
 ## 📫 How to reach me :call_me_hand:
