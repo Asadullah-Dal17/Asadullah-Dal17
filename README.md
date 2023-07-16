@@ -1,7 +1,7 @@
 # اسدالله دل
 ## I'm a Husband :couple:,  Developer :man_technologist:, <a href="https://www.youtube.com/c/aiphile">YouTuber <img alt="AiPhile Youtube" src="https://user-images.githubusercontent.com/66181793/131223988-882d53a0-4882-468f-9bd7-46b46466baae.png"  width="25"></a> and Teacher!!👨‍🏫
 
-I'm a computer vision developer with a passion for teaching and sharing my knowledge. I create YouTube videos and blog posts to help others learn about computer vision  <a href="https://www.youtube.com/c/aiphile">
+Computer vision developer with a passion for teaching and sharing my knowledge. I create YouTube videos and blog posts to help others learn about computer vision  <a href="https://www.youtube.com/c/aiphile">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" width=75 alt="Youtube Badge"/>
   </a> , and I also offer freelance services to help businesses build and deploy computer vision applications.<a href="https://www.fiverr.com/aiphile/"><img alt="Instagram" src="https://img.shields.io/badge/Fiverr-fiverr?style=for-the-badge&logo=Fiverr&logoColor=black"  width="75"> </a>  I'm always looking for new ways to learn and grow, and I'm excited to share my journey with you.
 
