@@ -29,10 +29,10 @@ I am a computer vision developer with a passion for teaching and sharing my know
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 
-<!-- Fiverr Badge 
-   <a href="https://www.fiverr.com/aiphile">
+<!-- Fiverr Badge -->
+   <a href="https://www.fiverr.com/asadullah_ar">
     <img src="https://img.shields.io/badge/Fiverr-fiverr?style=for-the-badge&logo=Fiverr&logoColor=black" alt="Fiverr Badge"/>
-  </a> -->
+  </a> 
 <!-- Instagram Badge  -->
   <a href="https://www.instagram.com/aiphile17">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=Instagram&logoColor=white" alt="Medium Badge"/>
@@ -46,16 +46,17 @@ I am a computer vision developer with a passion for teaching and sharing my know
   <a href="https://www.linkedin.com/company/aiphile">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-
+  <!-- Face book badge  -->
+<a href="https://asadullah.super.site">
+    <img src="https://img.shields.io/badge/My%20Profile-black?style=for-the-badge&logo=Profile&logoColor=Green" alt="Facebook Badge"/>
+  </a> 
   <!-- Twitter Badge  -->
   <a href="https://twitter.com/ai_phile">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  
 
-  <!-- Face book badge  -->
-  <!-- <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
-  </a> -->
+
 
 
 
