@@ -11,7 +11,7 @@ I am a computer vision developer with a passion for teaching and sharing my know
 
 
 
-- 🔭 I am working on my first few courses! for the Youtube channel.
+- 🔭 I am working on Mediapipe Course! for the Youtube channel.
 - 🌱 I work as a Junior School Teacher at a Government Boys High School Dadoon in Sindh, Pakistan.
 - 🥅 2024 Goals: To create more courses on YouTube [Mediapipe Course](https://github.com/Asadullah-Dal17/AiPhile-Mediapipe-Course-2023).
 - ⛑️ If you need help in computer vision stuff feel free to DM me  <a href="https://www.instagram.com/aiphile17/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=Instagram&logoColor=white"  width="85"> </a>
