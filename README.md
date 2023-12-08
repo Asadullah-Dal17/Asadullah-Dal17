@@ -1,11 +1,12 @@
 # اسدالله دل
-## I'm a Husband :couple:,  Developer :man_technologist:, <a href="https://www.youtube.com/c/aiphile">YouTuber <img alt="AiPhile Youtube" src="https://user-images.githubusercontent.com/66181793/131223988-882d53a0-4882-468f-9bd7-46b46466baae.png"  width="25"></a> and Teacher!!👨‍🏫
+## I'm a Father 👨‍👩‍👦 of Umar Bin Asadullah, Husband :couple:,  Developer :man_technologist:, <a href="https://www.youtube.com/c/aiphile">YouTuber <img alt="AiPhile Youtube" src="https://user-images.githubusercontent.com/66181793/131223988-882d53a0-4882-468f-9bd7-46b46466baae.png"  width="25"></a> and Teacher!!👨‍🏫
 
 I am a computer vision developer with a passion for teaching and sharing my knowledge. I create YouTube videos and blog posts to help others learn about computer vision  <a href="https://www.youtube.com/c/aiphile">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" width=75 alt="Youtube Badge"/>
   </a> , and I also offer freelance services to help businesses build and deploy computer vision applications. I'm always looking for new ways to learn and grow and excited to share my journey with you.
 
-<!-- ## *Today (17-November) is my Nakkah(Getting married), Al-Humdulillah ♥* -->
+## *Today (17-November-2022) is my Nakkah(Got married), Al-Humdulillah ♥* 
+## *Today (03-December-2023) I become Father of Umar Bin Asadullah, Al-Humdulillah ♥* 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Asadullah-Dal17&label=Profile%20views&color=0e75b6&style=flat" alt="Asadullah" /> <strong> since October 19th, 2021 </strong></p>
 
 
