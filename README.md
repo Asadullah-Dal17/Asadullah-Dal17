@@ -30,10 +30,6 @@ I am a computer vision developer with a passion for teaching and sharing my know
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 
-<!-- Fiverr Badge -->
-   <a href="https://www.fiverr.com/asadullah_ar">
-    <img src="https://img.shields.io/badge/Fiverr-fiverr?style=for-the-badge&logo=Fiverr&logoColor=black" alt="Fiverr Badge"/>
-  </a> 
 <!-- Instagram Badge  -->
   <a href="https://www.instagram.com/aiphile17">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=Instagram&logoColor=white" alt="Medium Badge"/>
@@ -55,13 +51,6 @@ I am a computer vision developer with a passion for teaching and sharing my know
   <a href="https://twitter.com/ai_phile">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  
-
-
-
-
-
-
  
 </div>
 
@@ -102,7 +91,6 @@ I am a computer vision developer with a passion for teaching and sharing my know
 <a href="https://jupyter.org/">   <img alt="jupyter notebook" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"  width="80">
 <a href="https://en.wikipedia.org/wiki/C%2B%2B" >   <img alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg"  width="80">
 <a href="http://canva.com/" >   <img alt="Canva" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"  width="80">
-<a href="https://fxhome.com/product/hitfilm-express" >   <img alt="Canva" src="https://img.icons8.com/fluency/48/000000/hitfilm-express.png"  width="80">
  
  
 ---
