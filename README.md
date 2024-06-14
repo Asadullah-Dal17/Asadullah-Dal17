@@ -29,6 +29,9 @@ I am a computer vision developer with a passion for teaching and sharing my know
   <a href="https://www.youtube.com/c/aiphile">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
+<!-- freelancing Badge -->
+ <a href="https://kwork.com/user/asadullah92">
+    <img src="https://img.shields.io/badge/Kwork-for%20freelacning-white?style=for-the-badge&logo=kwork-black&logoColor=black" alt="Kwrok Badge"/>
 
 <!-- Instagram Badge  -->
   <a href="https://www.instagram.com/aiphile17">
@@ -51,6 +54,8 @@ I am a computer vision developer with a passion for teaching and sharing my know
   <a href="https://twitter.com/ai_phile">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+
+ 
  
 </div>
 
