@@ -65,9 +65,9 @@ I am a computer vision developer with a passion for teaching and sharing my know
    ### 📺 Latest YouTube Videos   <a href="https://www.youtube.com/c/aiphile"> <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" height=35 alt="Youtube Badge"/> </a>
  
 <!-- YOUTUBE:START -->
-- [Face Movement Detection | Motion Detection Python | Mediapipe Course](https://www.youtube.com/watch?v=B0K0J7FuG5M)
+- [Real-Time Face Movement | Motion Detection  Using Python and Mediapipe | In-Depth Tutorial](https://www.youtube.com/watch?v=B0K0J7FuG5M)
 - [Face Detection and Distance Estimation using Single Camera | MediaPipe | Python](https://www.youtube.com/watch?v=B-ziI5Bplug)
-- [Face Time Calculation  with Computer Vision Python | Project 2 | Mediapipe Course](https://www.youtube.com/watch?v=PSnoLNzo-9g)
+- [Accurate Face Time Calculation Using Computer Vision in Python | Mediapipe Course Project 2](https://www.youtube.com/watch?v=PSnoLNzo-9g)
 - [Blurring Face with Mediapipe, OpenCV| Mediapipe Course part-2 | Project 01](https://www.youtube.com/watch?v=E91EjA4nkKg)
 - [Face Detection | Mediapipe Complete Course Part-1](https://www.youtube.com/watch?v=FsVAvgR9ifY)
 <!-- YOUTUBE:END -->
