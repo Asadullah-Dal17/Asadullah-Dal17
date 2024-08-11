@@ -21,7 +21,7 @@ I am a computer vision developer with a passion for teaching and sharing my know
 ## 📫 How to reach me :call_me_hand:
 
 
-  ![signal-username-qr-code](https://github.com/user-attachments/assets/0c96b7f9-b5eb-48cc-aec3-6fb6ada83ffd)
+  <!-- ![signal-username-qr-code](https://github.com/user-attachments/assets/0c96b7f9-b5eb-48cc-aec3-6fb6ada83ffd) -->
 
  
    <div id="badges">
@@ -61,6 +61,11 @@ I am a computer vision developer with a passion for teaching and sharing my know
 </div>
 
   
+  ### Directly Connect text me on signal :bulb:
+  <div>
+  <img src="https://github.com/user-attachments/assets/283933bc-02d4-4946-b7e9-334e5a89c927" alt="My Image" width="300" >
+</div>
+
 ---
 
    ### 📺 Latest YouTube Videos   <a href="https://www.youtube.com/c/aiphile"> <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" height=35 alt="Youtube Badge"/> </a>
