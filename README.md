@@ -61,7 +61,7 @@ I am a computer vision developer with a passion for teaching and sharing my know
 </div>
 
   
-  ### Directly Connect text me on signal :bulb:
+  ### Text me on signal :bulb:
   <div>
   <img src="https://github.com/user-attachments/assets/283933bc-02d4-4946-b7e9-334e5a89c927" alt="My Image" width="300" >
 </div>
