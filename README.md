@@ -21,7 +21,8 @@ I am a computer vision developer with a passion for teaching and sharing my know
 ## 📫 How to reach me :call_me_hand:
 
 
-  
+  ![signal-username-qr-code](https://github.com/user-attachments/assets/0c96b7f9-b5eb-48cc-aec3-6fb6ada83ffd)
+
  
    <div id="badges">
 
