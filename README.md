@@ -71,11 +71,7 @@ I am a computer vision developer with a passion for teaching and sharing my know
    ### 📺 Latest YouTube Videos   <a href="https://www.youtube.com/c/aiphile"> <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" height=35 alt="Youtube Badge"/> </a>
  
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [How to Track Face Movement with Python: A Beginner&#39;s Guide](https://www.youtube.com/watch?v=B0K0J7FuG5M)
-- [Face Detection and Distance Estimation using Single Camera | MediaPipe | Python](https://www.youtube.com/watch?v=B-ziI5Bplug)
-- [Build a Face Time Tracker with Python: A Complete Tutorial Mediapipe Course Project 2](https://www.youtube.com/watch?v=PSnoLNzo-9g)
-- [Blurring Face with Mediapipe, OpenCV| Mediapipe Course part-2 | Project 01](https://www.youtube.com/watch?v=E91EjA4nkKg)
-- [Face Detection | Mediapipe Complete Course Part-1](https://www.youtube.com/watch?v=FsVAvgR9ifY)
+- [LIVE: President Donald Trump &amp; Elon Musk in Charlotte, NC – Exclusive Town Hall](https://www.youtube.com/watch?v=cGBsC0W9STw)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ➡️ [more videos...](https://www.youtube.com/c/aiphile)
