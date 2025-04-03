@@ -52,6 +52,11 @@ I specialize in **computer vision development** and love sharing my knowledge th
 </a>
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Streamlit Portfolio Site with an AI Bot | Showcase | CVzone Bootcamp  @murtazasworkshop](https://www.youtube.com/watch?v=cG_ydd-Uko0)
+- [Without any Extension Visual Studio Code](https://www.youtube.com/watch?v=NoSr16hNR6k)
+- [Path IntelliSense Extension || Visual Studio Code](https://www.youtube.com/watch?v=B5vZkqiXvJ8)
+- [Auto DocString Extension || Visual Studio Code](https://www.youtube.com/watch?v=2xa9_A8HH3U)
+- [IntelliCode Extension || Visual Studio Code](https://www.youtube.com/watch?v=ePaF2AJgq9M)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ➡️ [More videos...](https://www.youtube.com/@asadullah-dal)
