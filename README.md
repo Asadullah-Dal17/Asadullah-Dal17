@@ -52,7 +52,6 @@ I specialize in **computer vision development** and love sharing my knowledge th
 </a>
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [LIVE: President Donald Trump & Elon Musk in Charlotte, NC – Exclusive Town Hall](https://www.youtube.com/watch?v=cGBsC0W9STw)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ➡️ [More videos...](https://www.youtube.com/@asadullah-dal)
