@@ -1,6 +1,6 @@
 # اسدالله دل
 ## About Me
-Hi, I'm Asadullah! 👨‍👩‍👦 A proud father of Umar Bin Asadullah, a loving husband, a passionate developer 👨‍💻, a dedicated teacher 👨‍🏫, and a content creator on [YouTube](https://www.youtube.com/c/aiphile) <img alt="AiPhile Youtube" src="https://user-images.githubusercontent.com/66181793/131223988-882d53a0-4882-468f-9bd7-46b46466baae.png" width="25">.
+Hi, I'm Asadullah! 👨‍👩‍👦 A proud father of Umar Bin Asadullah, a loving husband, a passionate developer 👨‍💻, a dedicated teacher 👨‍🏫, and a content creator on [YouTube](https://www.youtube.com/@asadullah-dal) <img alt="AiPhile Youtube" src="https://user-images.githubusercontent.com/66181793/131223988-882d53a0-4882-468f-9bd7-46b46466baae.png" width="25">.
 
 I specialize in **computer vision development** and love sharing my knowledge through YouTube videos, blog posts, and freelance services. My goal is to help others learn and grow in the field of computer vision. I'm always eager to explore new opportunities, learn new skills, and share my journey with the world.
 
@@ -14,7 +14,7 @@ I specialize in **computer vision development** and love sharing my knowledge th
 ### 🌟 What I Do
 - 🔭 Currently working on the **Mediapipe Course** for my YouTube channel.
 - 🌱 Junior School Teacher at Government Boy's High School Dadoon, Sindh, Pakistan.
-- 🥅 **2024 Goals**: Create more courses on YouTube, including the [Mediapipe Course](https://github.com/Asadullah-Dal17/AiPhile-Mediapipe-Course-2023).
+- 🥅 **2025 Goals**: Create more courses on YouTube, including the [Mediapipe Course](https://github.com/Asadullah-Dal17/AiPhile-Mediapipe-Course-2023).
 - ⛑️ Need help with computer vision? Feel free to DM me on [Instagram](https://www.instagram.com/aiphile17/) <img alt="Instagram" src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=Instagram&logoColor=white" width="85">.
 - 😄 Pronouns: He/His/Him 👨
 
@@ -22,7 +22,7 @@ I specialize in **computer vision development** and love sharing my knowledge th
 
 ## 📫 How to Reach Me
 <div id="badges">
-  <a href="https://www.youtube.com/c/aiphile">
+  <a href="https://www.youtube.com/@asadullah-dal">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
   </a>
   <a href="https://kwork.com/user/asadullah92">
@@ -46,20 +46,19 @@ I specialize in **computer vision development** and love sharing my knowledge th
 </div>
 
 ---
-
-<!-- ### 📺 Latest YouTube Videos
-<a href="https://www.youtube.com/c/aiphile">
+ ### 📺 Latest YouTube Videos
+<a href="https://www.youtube.com/@asadullah-dal">
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" height="35" alt="YouTube Badge"/>
 </a>
 
-YOUTUBE-VIDEOS-LIST:START
+<!-- YOUTUBE-VIDEOS-LIST:START -->
 - [LIVE: President Donald Trump & Elon Musk in Charlotte, NC – Exclusive Town Hall](https://www.youtube.com/watch?v=cGBsC0W9STw)
-YOUTUBE-VIDEOS-LIST:END
+<!-- YOUTUBE-VIDEOS-LIST:END -->
 
-➡️ [More videos...](https://www.youtube.com/c/aiphile)
+➡️ [More videos...](https://www.youtube.com/@asadullah-dal)
 
 --- 
--->
+
 
 ### 📊 GitHub Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Asadullah-Dal17&theme=dark&background=000000)](https://git.io/streak-stats)
