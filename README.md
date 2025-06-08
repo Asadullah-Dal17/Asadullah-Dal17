@@ -37,7 +37,7 @@ I specialize in **computer vision development** and love sharing my knowledge th
   <a href="https://www.linkedin.com/company/aiphile">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://asadullah.super.site">
+  <a href="https://asadullahdal.streamlit.app/">
     <img src="https://img.shields.io/badge/My%20Profile-black?style=for-the-badge&logo=Profile&logoColor=Green" alt="Profile Badge"/>
   </a>
   <a href="https://twitter.com/ai_phile">
