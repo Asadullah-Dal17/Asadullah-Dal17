@@ -2,7 +2,7 @@
 ## About Me
 Hi, I'm Asadullah! 👨‍👩‍👦 A proud father of Umar Bin Asadullah, a loving husband, a passionate developer 👨‍💻, a dedicated teacher 👨‍🏫, and a content creator on [YouTube](https://www.youtube.com/@asadullah-dal) <img alt="AiPhile Youtube" src="https://user-images.githubusercontent.com/66181793/131223988-882d53a0-4882-468f-9bd7-46b46466baae.png" width="25">.
 
-I specialize in **computer vision development** and love sharing my knowledge through YouTube videos, blog posts, and freelance services. My goal is to help others learn and grow in the field of computer vision. I'm always eager to explore new opportunities, learn new skills, and share my journey with the world.
+I specialise in **computer vision development** and love sharing my knowledge through YouTube videos, blog posts, and freelance services. My goal is to help others learn and grow in the field of computer vision. I'm always eager to explore new opportunities, learn new skills, and share my journey with the world.
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Asadullah-Dal17&label=Profile%20views&color=0e75b6&style=flat" alt="Asadullah" />
@@ -13,7 +13,7 @@ I specialize in **computer vision development** and love sharing my knowledge th
 
 ### 🌟 What I Do
 - 🔭 Currently working on the **Mediapipe Course** for my YouTube channel.
-- 🌱 Junior School Teacher at Government Boy's High School Dadoon, Sindh, Pakistan.
+- 🌱 Junior School Teacher at Government Boys' High School Dadoon, Sindh, Pakistan.
 - 🥅 **2025 Goals**: Create more courses on YouTube, including the [Mediapipe Course](https://github.com/Asadullah-Dal17/AiPhile-Mediapipe-Course-2023).
 - ⛑️ Need help with computer vision? Feel free to DM me on [Instagram](https://www.instagram.com/aiphile17/) <img alt="Instagram" src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=Instagram&logoColor=white" width="85">.
 - 😄 Pronouns: He/His/Him 👨
