@@ -18,6 +18,9 @@ I specialise in **computer vision development** and love sharing my knowledge th
 - ⛑️ Need help with computer vision? Feel free to DM me on [Instagram](https://www.instagram.com/aiphile17/) <img alt="Instagram" src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=Instagram&logoColor=white" width="85">.
 - 😄 Pronouns: He/His/Him 👨
 
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
 
 ## 📫 How to Reach Me
@@ -64,13 +67,18 @@ I specialise in **computer vision development** and love sharing my knowledge th
 --- 
 
 
-### 📊 GitHub Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Asadullah-Dal17&theme=dark&background=000000)](https://git.io/streak-stats)
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=asadullah-dal17&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=asadullah-dal17&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=asadullah-dal17&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asadullah-Dal17&show_icons=true&theme=transparent)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=asadullah-dal17&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asadullah-Dal17&layout=compact&theme=buefy&title_color=000)](https://github.com/anuraghazra/github-readme-stats)
-
+---
+[![](https://visitcount.itsvg.in/api?id=asadullah-dal17&icon=0&color=0)](https://visitcount.itsvg.in)
 ---
 
 ### 🛠️ My Working Tools
