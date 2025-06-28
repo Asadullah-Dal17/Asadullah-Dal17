@@ -39,7 +39,7 @@ My expertise lies in **computer vision**, where I develop solutions, create tuto
   <a href="https://www.linkedin.com/company/aiphile">  
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />  
   </a>  
-  <a href="[https://asadullahdal.streamlit.app](https://asadullah-dal17.github.io/asadullahdal.github.io/)/">  
+  <a href="[https://asadullah-dal17.github.io/asadullahdal.github.io">  
     <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />  
   </a>  
   <a href="https://twitter.com/ai_phile">  
