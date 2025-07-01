@@ -57,7 +57,7 @@ My expertise lies in **computer vision**, where I develop solutions, create tuto
 </div>  
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Streamlit Portfolio Site with an AI Bot | Showcase | CVzone Bootcamp  @murtazasworkshop](https://www.youtube.com/watch?v=cG_ydd-Uko0)
+- [I Built An AI Assistant Into My Portfolio Website](https://www.youtube.com/watch?v=cG_ydd-Uko0)
 - [Without any Extension Visual Studio Code](https://www.youtube.com/watch?v=NoSr16hNR6k)
 - [Path IntelliSense Extension || Visual Studio Code](https://www.youtube.com/watch?v=B5vZkqiXvJ8)
 - [Auto DocString Extension || Visual Studio Code](https://www.youtube.com/watch?v=2xa9_A8HH3U)
