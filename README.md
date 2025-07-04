@@ -1,5 +1,8 @@
 # اسدالله دل  
-### **Computer Vision Developer | Educator | Content Creator**  
+
+### **🤖 ڪمپيوٽر ويزن ڊولپر | 👨‍🏫 اوستاد | 📝 مواد ٺاهيندڙ**
+### **🤖 Computer Vision Developer | 👨‍🏫 Educator | 📝 Content Creator**  
+
 
 ## 👨‍💻 About Me  
 Hello! I'm **Asadullah Dal**—a passionate **Computer Vision Developer**, dedicated educator, and content creator on [YouTube](https://www.youtube.com/@asadullah-dal). I take pride in being a loving father, a supportive husband, and a lifelong learner in the ever-evolving world of technology.  
@@ -17,7 +20,7 @@ My expertise lies in **computer vision**, where I develop solutions, create tuto
 - **🔭 Current Focus**: Developing a **Mediapipe Course** for my YouTube audience.  
 - **🌱 Profession**: Junior School Teacher at Government Boys' High School Dadoon, Sindh, Pakistan.  
 - **🎯 2025 Goals**: Expand my YouTube course offerings, including the [Mediapipe Course](https://github.com/Asadullah-Dal17/AiPhile-Mediapipe-Course-2023).  
-- **💡 Need Help?** DM me on [Instagram](https://www.instagram.com/aiphile17/) for computer vision guidance.  
+- **💡 Need Help?** DM me on <a href="https://www.instagram.com/aiphile17/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="vertical-align:middle;height:22px;"/></a> for computer vision guidance.
 - **😄 Pronouns**: He/Him  
 
 ---  
@@ -75,6 +78,16 @@ My expertise lies in **computer vision**, where I develop solutions, create tuto
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />  
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />  
   <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi" />  
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />  
+  <img src="https://img.shields.io/badge/Shotcut-00E2FF?style=for-the-badge&logo=shotcut&logoColor=white" alt="Shotcut" />  
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />  
+  <img src="https://img.shields.io/badge/OhMyZsh-1A2C34?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Oh My Zsh" />  
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />  
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />  
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning" />  
+  <img src="https://img.shields.io/badge/Computer%20Vision-0A192F?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision" />  
+  <img src="https://img.shields.io/badge/Mediapipe-FF9800?style=for-the-badge&logo=mediapipe&logoColor=white" alt="Mediapipe" />  
+  <!-- and more other... -->
 </div>  
 
 ---  
@@ -99,6 +112,6 @@ My expertise lies in **computer vision**, where I develop solutions, create tuto
   <a href="https://www.arduino.cc/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50" title="Arduino" /></a>  
 </div>  
 
----  
+---
 
-⭐ **From [Asadullah Dal](https://github.com/Asadullah-Dal17)**  
+
