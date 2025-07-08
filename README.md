@@ -52,10 +52,6 @@ My expertise lies in **computer vision**, where I develop solutions, create tuto
 
 ---
 
-<a href="https://www.buymeacoffee.com/asadullahdal"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=asadullahdal&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
-
-
----
 ## 📺 Latest YouTube Videos  
 
 <div align="center">  
@@ -75,7 +71,12 @@ My expertise lies in **computer vision**, where I develop solutions, create tuto
 ➡️ **[Watch More Videos](https://www.youtube.com/@asadullah-dal)**  
 
 ---  
+## for support 
 
+<a href="https://www.buymeacoffee.com/asadullahdal"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=asadullahdal&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+
+
+---
 ## 💻 Tech Stack  
 <div align="center">  
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />  
