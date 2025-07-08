@@ -73,8 +73,11 @@ My expertise lies in **computer vision**, where I develop solutions, create tuto
 ---  
 ## for support 
 
+
+
 <a href="https://www.buymeacoffee.com/asadullahdal"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=asadullahdal&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 
+![bmc_qr (1)](https://github.com/user-attachments/assets/a538875d-32ed-4d3c-a5b1-7f41e50a50c7)
 
 ---
 ## 💻 Tech Stack  
