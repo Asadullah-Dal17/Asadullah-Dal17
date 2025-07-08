@@ -50,9 +50,14 @@ My expertise lies in **computer vision**, where I develop solutions, create tuto
   </a>  
 </div>  
 
----  
+---
 
+<a href="https://www.buymeacoffee.com/asadullahdal"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=asadullahdal&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+
+
+---
 ## 📺 Latest YouTube Videos  
+
 <div align="center">  
   <a href="https://www.youtube.com/@asadullah-dal">  
     <img src="https://img.shields.io/badge/Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="35" alt="YouTube" />  
