@@ -71,17 +71,22 @@ My expertise lies in **computer vision**, where I develop solutions, create tuto
 ➡️ **[Watch More Videos](https://www.youtube.com/@asadullah-dal)**  
 
 ---  
+
 ## for support 
 
 
 
 [![Buy Me A Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=asadullahdal&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/asadullahdal)
 
+---
+
+### Scan QR code for Support.
 
 <img src="https://github.com/user-attachments/assets/a538875d-32ed-4d3c-a5b1-7f41e50a50c7" alt="bmc_qr" width="400"/>
 
 
 ---
+
 ## 💻 Tech Stack  
 <div align="center">  
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />  
@@ -124,5 +129,3 @@ My expertise lies in **computer vision**, where I develop solutions, create tuto
 </div>  
 
 ---
-
-
