@@ -43,9 +43,6 @@ Hi — I'm **Asadullah Dal**. I build and teach computer vision projects, produc
 ## 🔭 Featured Projects
 
 - **[AiPhile-Mediapipe-Course-2023](https://github.com/Asadullah-Dal17/AiPhile-Mediapipe-Course-2023)** — Comprehensive MediaPipe tutorials and examples
-- *(Pin additional repos on your GitHub profile for visibility)*
-
-**Tip**: To pin repositories, visit your [GitHub profile](https://github.com/Asadullah-Dal17) → **Edit profile** → **Customize your pins** (up to 6 repos).
 
 ---
 
@@ -109,14 +106,6 @@ Hi — I'm **Asadullah Dal**. I build and teach computer vision projects, produc
 </div>
 
 ---
-
-## 🐍 GitHub Contribution Snake
-
-<div align="center">
-
-![snake gif](https://github.com/Asadullah-Dal17/Asadullah-Dal17/blob/output/github-contribution-grid-snake.svg)
-
-</div>
 
 ---
 
