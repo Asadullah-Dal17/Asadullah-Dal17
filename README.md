@@ -107,13 +107,13 @@ Hi — I'm **Asadullah Dal**. I build and teach computer vision projects, produc
 
 ---
 
----
-
 ## 📺 Latest YouTube Content
 
 <div align="center">
 
 [![Subscribe](https://img.shields.io/badge/Subscribe%20Now-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@asadullah-dal)
+
+[![Update Videos Workflow](https://github.com/Asadullah-Dal17/Asadullah-Dal17/actions/workflows/youtube-workflow.yml/badge.svg)](https://github.com/Asadullah-Dal17/Asadullah-Dal17/actions/workflows/youtube-workflow.yml)
 
 </div>
 
